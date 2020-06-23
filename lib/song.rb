@@ -12,4 +12,4 @@ class Song
 
 end
 
-Song.create
+
